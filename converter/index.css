@@ -1,0 +1,47 @@
+*{
+    
+    box-sizing: border-box;
+}
+
+.hero
+{
+    margin-top: 100px;
+    padding: 30px;
+    padding-top: 150px;
+    width: 450px;
+    margin-left: 500px;
+}
+.card-header
+{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-transform: uppercase;
+}
+.card-body
+{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+
+.input option{
+    padding: 5px;
+
+}
+.data
+{
+    margin: 10px;
+    padding: 3px;
+    
+}
+
+.card-footer
+{
+    background-color: black;
+    color: whitesmoke;
+    font-size: 23px;
+    font-weight: bold;
+}
+
